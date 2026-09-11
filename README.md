@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software engineer from India</h3>
 
 ## 🧑‍💻 About Me
-🎓 B.Tech CSE Student  
+🎓 B.Tech CSE Student 
 💻 Aspiring Full Stack Developer  
 🚀 Currently mastering DSA & Core Java  
 📚 Passionate about learning new technologies  

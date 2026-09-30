@@ -51,11 +51,11 @@
   </a>
 </p>
 
-<h2 align="left">📊 GitHub Contribution Graphh</h2>
+<!-- <h2 align="left">📊 GitHub Contribution Graphh</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKharwar&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 
 <h2 align="left">🔥 GitHub Streak</h2>
 
